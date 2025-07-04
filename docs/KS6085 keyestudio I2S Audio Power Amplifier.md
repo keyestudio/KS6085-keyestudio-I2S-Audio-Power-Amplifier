@@ -33,7 +33,7 @@ This module is equipped with the MAX98375 as the main control chip. It is a high
 
 ![1](./media/1.png)
 
-## 连接图
+## Connection Diagram
 
 |            **Module**            | QTY  |
 | :------------------------------: | :--: |
